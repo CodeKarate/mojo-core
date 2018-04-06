@@ -1,2 +1,1 @@
-# mojo-core
-Mojo core
+# Mojo Core
