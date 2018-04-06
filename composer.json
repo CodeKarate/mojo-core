@@ -7,7 +7,8 @@
         "symfony/console": "^4.1@dev",
         "symfony/routing": "^4.1@dev",
         "symfony/dependency-injection": "^4.1@dev",
-        "illuminate/database": "^5.7@dev"
+        "illuminate/database": "^5.7@dev",
+        "oomphinc/composer-installers-extender": "^1.1"
     },
     "autoload": {
         "psr-4": {
