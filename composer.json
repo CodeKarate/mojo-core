@@ -17,7 +17,7 @@
         "symfony/routing": "^4.1@dev",
         "symfony/dependency-injection": "^4.1@dev",
         "illuminate/database": "^5.7@dev",
-        "mnsami/composer-custom-directory-installer": "1.1.*",
+        "mnsami/composer-custom-directory-installer": "1.1.*"
     },
     "autoload": {
         "psr-4": {
