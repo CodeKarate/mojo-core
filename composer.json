@@ -16,6 +16,10 @@
         "symfony/console": "^4.1@dev",
         "symfony/routing": "^4.1@dev",
         "symfony/dependency-injection": "^4.1@dev",
+        "symfony/event-dispatcher": "^4.0",
+        "symfony/http-foundation": "^4.0",
+        "symfony/http-kernel": "^4.0",
+        "symfony/finder": "^4.0",
         "illuminate/database": "^5.7@dev",
         "mnsami/composer-custom-directory-installer": "1.1.*"
     },
